@@ -15,3 +15,6 @@ The following quick start guide has instructions that help you build the x264 Co
 9. Integer Transform
 10. Trellis Quantizer
 11. CABAC Entropy Encoding
+
+# H.264 vs H.265 - Coding Tree Unit (CTU) vs. Macroblock
+https://imgtec.com/wp-content/uploads/2013/06/MPEG-2-HEVC-and-H.264-tools-comparison-1.jpg

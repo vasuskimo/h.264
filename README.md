@@ -17,4 +17,5 @@ The following quick start guide has instructions that help you build the x264 Co
 11. CABAC Entropy Encoding
 
 # H.264 vs H.265 - Coding Tree Unit (CTU) vs. Macroblock
+40-45% bit rate reduction for the same visual quality when compared to predecessors
 https://imgtec.com/wp-content/uploads/2013/06/MPEG-2-HEVC-and-H.264-tools-comparison-1.jpg
